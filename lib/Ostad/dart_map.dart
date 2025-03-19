@@ -10,6 +10,14 @@ main(){
     'results' : [5,4.50,4.25,3.5]
   };
 
+
+  var person44 = {
+    'name': 'Taufiq',
+    'age' : 26,
+    'expe': '7 years',
+    'results' : [5,4.50,4.25,3.5]
+  };
+
   Map<String,String>person2 = {
     'name': 'Taufiq',
     'age' : '26',
